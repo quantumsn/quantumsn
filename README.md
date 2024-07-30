@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **Currently I'm studing in:**  <br>B.C.A 1st year form Guru Nanak Institute Of Technology<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Full Stack.<br><br>💬 **Ask me about:**  <br>JavaScript,Node.js, Express js, and any general software development questions.<br><br>
+🔭 **Currently I'm studing in:**  <br>B.C.A 1st year form Guru Nanak Institute Of Technology<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Full Stack. & DSA in JAVA<br><br>💬 **Ask me about:**  <br>JavaScript,Node.js, Express js, and any general software development questions.<br><br>
 
 
 ## 🌐 Socials:
